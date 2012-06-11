@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>2.0.2</version>
+    <authors>Thomas Baumann</authors>
+    <owners>Jason Denizac</owners>
+    <licenseUrl>http://shotty.devs-on.net/en/Download.aspx</licenseUrl>
+    <projectUrl>http://shotty.devs-on.net/en/Overview.aspx</projectUrl>
+    <iconUrl>http://github.com/jasondenizac/ChocoPackages/blob/master/Shotty/icon.png</iconUrl>
+    <id>Shotty</id>
+    <title>Shotty - Tiny but impressive screenshot utility</title>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Shotty is an application to take pictures from your computers screen (called screenshots) or from one application only. Unlike other applications that does this Shotty provides various other features that are useful to modify the taken screenshot. With Shotty you get all what you need in one single application.</description>
+    <summary>License
+The private, non - commercial use is free of charge and will remain (freeware).
+Commercial use is arranged depending on the type of use also free of charge.
+You can link this page or our ap</summary>
+    <copyright>Copyright (C) 2010-2011 Thomas Baumann</copyright>
+    <tags>notSilent, screenshot</tags>
+  </metadata>
+  <files>
+    <file src="tools\chocolateyInstall.ps1" target="tools\chocolateyInstall.ps1" />
+    <file src="icon.png" target="icon.png" />
+  </files>
+</package>
