@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <version>10.0.762</version>
+    <authors>Mythicsoft</authors>
+    <owners>jasondenizac</owners>
+    <projectUrl>http://www.mythicsoft.com/page.aspx?type=agentransack&amp;page=home</projectUrl>
+    <iconUrl>http://www.mythicsoft.com/images/agent_ransack.png</iconUrl>
+    <id>ransack</id>
+    <title>Agent Ransack</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Free File Searching Utility - Finding files that other search engines miss.</description>
+    <tags>file search, search, grep</tags>
+  </metadata>
+</package>

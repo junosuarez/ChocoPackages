@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'Ransack' 'exe' '/silent' 'http://download.mythicsoft.com/agentran.exe' 'http://download.mythicsoft.com/agentran_64.exe'
