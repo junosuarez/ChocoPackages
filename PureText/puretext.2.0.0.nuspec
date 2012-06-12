@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <version>2.0.0</version>
+    <authors>Steve Miller</authors>
+    <owners>jasondenizac</owners>
+    <licenseUrl>http://www.stevemiller.net/puretext/</licenseUrl>
+    <projectUrl>http://www.stevemiller.net/puretext/</projectUrl>
+    <iconUrl>http://www.stevemiller.net/puretext/puretext.gif</iconUrl>
+    <id>puretext</id>
+    <title>PureText</title>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Have you ever copied some text from a web page or a document and then wanted to paste it as simple text into another application without getting all the formatting from the original source? PureText makes this simple by adding a new Windows hot-key (default is WINDOWS+V) that allows you to paste text to any application without formatting.</description>
+    <summary>PureText is completely free to use. You may not profit from the distribution of it, nor may you bundle it with another product.</summary>
+    <tags>plain text, text, rich text</tags>
+  </metadata>
+</package>
