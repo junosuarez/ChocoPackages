@@ -1,4 +1,4 @@
-Install-ChocolateyZipPackage 'PureText' 'http://www.stevemiller.net/downloads/puretext20_x86.zip' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
+Install-ChocolateyZipPackage 'PureText' 'http://www.stevemiller.net/downloads/puretext_3.0_32-bit.zip' 'http://www.stevemiller.net/downloads/puretext_3.0_64-bit.zip' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 $hr = "="*[System.Console]::WindowWidth
 Write-Host $hr
