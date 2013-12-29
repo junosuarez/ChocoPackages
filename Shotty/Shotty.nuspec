@@ -6,7 +6,7 @@
     <owners>Jason Denizac</owners>
     <licenseUrl>http://shotty.devs-on.net/en/Download.aspx</licenseUrl>
     <projectUrl>http://shotty.devs-on.net/en/Overview.aspx</projectUrl>
-    <iconUrl>https://github.com/jasondenizac/ChocoPackages/raw/master/Shotty/icon.png</iconUrl>
+    <iconUrl>https://raw.github.com/jden/ChocoPackages/master/Shotty/icon.png</iconUrl>
     <id>Shotty</id>
     <title>Shotty - Tiny but impressive screenshot utility</title>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>

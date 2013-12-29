@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <version>2.0.0</version>
+    <version>3.0.0</version>
     <authors>Steve Miller</authors>
     <owners>jasondenizac</owners>
     <licenseUrl>http://www.stevemiller.net/puretext/</licenseUrl>
